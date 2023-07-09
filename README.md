@@ -6,14 +6,14 @@
 - Email: rishav1471@gmail.com
 
 <!---
-Rishav-repository/About Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rishav-repository/Rishav-repository is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="right" alt="Coding" width="200" padding="100" src="https://e7.pngegg.com/pngimages/329/501/png-clipart-github-pages-commit-source-code-github-mammal-cat-like-mammal-thumbnail.png"> 
+<img align="left" alt="Coding" width="200" padding="100" src="https://e7.pngegg.com/pngimages/329/501/png-clipart-github-pages-commit-source-code-github-mammal-cat-like-mammal-thumbnail.png"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=" https://www.linkedin.com/in/rishav-kumar-201984231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pushkariiitv" height="20" width="30" /></a>
+<a href=" https://www.linkedin.com/in/rishav-kumar-201984231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rishav-kumar-201984231/" height="20" width="30" /></a>
 <a href="https://media.licdn.com/dms/image/D4D03AQEdpl7v34kT-g/profile-displayphoto-shrink_800_800/0/1686897264162?e=1694649600&v=beta&t=Vc7tVelzGLwxZMB-o9tLG0dnWlLvrzL1uaxhaWWGXfY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav
  _" height="20" width="30" /></a>
 
