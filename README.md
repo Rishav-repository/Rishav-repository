@@ -9,7 +9,7 @@
 Rishav-repository/About Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="right" alt="Coding" width="400" padding="100" src="https://e7.pngegg.com/pngimages/154/586/png-clipart-github-version-control-source-code-computer-software-github-mammal-cat-like-mammal-thumbnail.png"> 
+<img align="right" alt="Coding" width="400" padding="100" src="https://e7.pngegg.com/pngimages/329/501/png-clipart-github-pages-commit-source-code-github-mammal-cat-like-mammal-thumbnail.png"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
