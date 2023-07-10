@@ -9,7 +9,7 @@
 Rishav-repository/Rishav-repository is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="left" alt="Coding" width="200" padding="100" src="https://e7.pngegg.com/pngimages/329/501/png-clipart-github-pages-commit-source-code-github-mammal-cat-like-mammal-thumbnail.png"> 
+<img align="left" alt="Coding" width="300" padding="100" src="https://e7.pngegg.com/pngimages/329/501/png-clipart-github-pages-commit-source-code-github-mammal-cat-like-mammal-thumbnail.png"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
